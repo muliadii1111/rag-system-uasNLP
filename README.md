@@ -189,13 +189,19 @@ rag-system-uas-nlp/
 - Koneksi internet (untuk download model embedding pertama kali)
 
 ---
+
 ## 📷 Screenshot Aplikasi
+
 ### Halaman Utama
-![Home](screenshots/home.png)
+![Home](./screenshots/home.png)
+
 ### Chat dengan Dokumen
-![Chat](screenshots/chat.png)
+![Chat](./screenshots/chat.png)
+
 ### Proses LangGraph
-![LangGraph](screenshots/langsmith.png)
+![LangGraph](./screenshots/langsmith.png)
+
+## 👨‍💻 Author
 
 ## 👨‍💻 Author
 
