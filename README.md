@@ -193,13 +193,13 @@ rag-system-uas-nlp/
 ## 📷 Screenshot Aplikasi
 
 ### Halaman Utama
-![Home](./screenshots/home.png)
+![Home](rag-system/screenshots/home.png)
 
 ### Chat dengan Dokumen
-![Chat](./screenshots/chat.png)
+![Chat](rag-system/screenshots/chat.png)
 
 ### Proses LangGraph
-![LangGraph](./screenshots/langsmith.png)
+![LangGraph](rag-system/screenshots/langsmith.png)
 
 ## 👨‍💻 Author
 
